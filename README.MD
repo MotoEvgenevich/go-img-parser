@@ -31,7 +31,7 @@ This project is a simple Go application that downloads images from a set of gene
 2. Run the application:
 
     ```bash
-    go run main.go
+    go run img-parser.go
     ```
 
 ### How It Works
@@ -81,7 +81,7 @@ cd image-downloader
 ### Запустите приложение:
 
 ```bash
-go run main.go
+ go run img-parser.go
 ```
 ### Как это работает
 Функция linkGenerate создает список URL-адресов, каждый из которых указывает на изображение, соответствующее 3-часовому интервалу.
